@@ -4,4 +4,4 @@
 
 JOJO 黃金之風
 
-This is JOJO!
+JOJO!
